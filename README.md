@@ -29,5 +29,6 @@ Dựa trên kiến trúc được đề xuất trong nghiên cứu của Chun-Yu
 1. **Cài đặt:** `pip install -r requirements.txt`
 2. **Xử lý dữ liệu:** `python process_osm_data.py --input data.json --n_customers 20`
 3. **Huấn luyện:** `python train_sac.py --episodes 500`
-4. **Mô phỏng:** `python simulate_delivery.py --model checkpoints/sac_actor.pt --ga_result outputs/ga_result.json`
-5. **So sánh hiệu suất 3 thuật toán:** `python compare_algorithms.py`
+4. **Tối ưu lộ trình giao hàng:**: `python ga_route_optimization.py --input_data outputs/Input_Data.json`
+5. **Mô phỏng:** `python simulate_delivery.py --model checkpoints/sac_actor.pt --ga_result outputs/ga_result.json`
+6. **So sánh hiệu suất 3 thuật toán:** `python compare_algorithms.py`
