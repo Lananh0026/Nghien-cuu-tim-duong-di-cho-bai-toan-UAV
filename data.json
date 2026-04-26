@@ -1,0 +1,4157 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-02T05:50:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 738815019,
+      "lat": 20.9961254,
+      "lon": 105.8300567,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "150 Lê Trọng Tấn",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 738815643,
+      "lat": 20.9995948,
+      "lon": 105.8286676,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Trước tòa nhà Artemis - Đường Tôn Thất Tùng kéo dài",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1498025962,
+      "lat": 20.9999984,
+      "lon": 105.8279102,
+      "tags": {
+        "addr:country": "VN",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "36",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "amenity": "atm",
+        "brand": "BIDV",
+        "brand:wikidata": "Q1003180",
+        "name": "BIDV",
+        "official_name": "Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "official_name:en": "Bank for Investment and Development of Vietnam",
+        "official_name:vi": "Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "operator": "BIDV",
+        "operator:wikidata": "Q1003180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739081346,
+      "lat": 20.9966877,
+      "lon": 105.8280734,
+      "tags": {
+        "addr:housenumber": "57",
+        "addr:street": "Phố Hòang Văn Thái",
+        "name": "thanh tâm",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739103926,
+      "lat": 20.995441,
+      "lon": 105.8287591,
+      "tags": {
+        "addr:housenumber": "40",
+        "addr:street": "Hòang Văn Thái",
+        "name": "Bách Hoá An",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739103928,
+      "lat": 20.9959109,
+      "lon": 105.8282148,
+      "tags": {
+        "addr:street": "Phố Hòang Văn Thái",
+        "name": "wold mart 31/69a",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739122725,
+      "lat": 20.9975773,
+      "lon": 105.82326,
+      "tags": {
+        "addr:housenumber": "169",
+        "addr:street": "Hòang Văn Thái",
+        "name": "Đại Lý 169",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739262922,
+      "lat": 20.9978679,
+      "lon": 105.8227031,
+      "tags": {
+        "addr:housenumber": "208",
+        "addr:street": "Hòang Văn Thái",
+        "name": "vinamart",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739304237,
+      "lat": 20.9977069,
+      "lon": 105.8265463,
+      "tags": {
+        "addr:housenumber": "171",
+        "addr:street": "Phố Nguyễn Ngọc Nại",
+        "name": "pub game",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4756017823,
+      "lat": 20.9955668,
+      "lon": 105.8272924,
+      "tags": {
+        "addr:housenumber": "21/71",
+        "addr:street": "Hòang Văn Thái",
+        "name": "Đại Lý Minh Dũng",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485874465,
+      "lat": 21.0000656,
+      "lon": 105.8303812,
+      "tags": {
+        "addr:street": "Đường Trường Chinh",
+        "amenity": "restaurant",
+        "name": "Nhà hàng Cảnh Hồ",
+        "source": "grab_hanoi_2018_t2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5606598224,
+      "lat": 20.9998667,
+      "lon": 105.8286292,
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "3",
+        "addr:province": "Hà Nội",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "addr:subdistrict": "Khương Mai",
+        "branch": "Lê Trọng Tấn",
+        "internet_access": "wlan",
+        "name": "Tops Market",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "CÔNG TY TNHH DỊCH VỤ EB",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:qr_pay": "yes",
+        "phone": "+84 865 671 423",
+        "shop": "supermarket",
+        "website": "https://topsmarket.vn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5608881107,
+      "lat": 20.999841,
+      "lon": 105.828372,
+      "tags": {
+        "addr:street": "Tôn Thất Tùng",
+        "alt_name": "PNJ BigC Lê Trọng Tấn",
+        "brand": "PNJ",
+        "brand:wikidata": "Q61129183",
+        "brand:wikipedia": "vi:PNJ",
+        "name": "PNJ",
+        "shop": "jewelry",
+        "website": "https://www.pnj.com.vn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5611266121,
+      "lat": 20.9987006,
+      "lon": 105.828332,
+      "tags": {
+        "addr:street": "Phố Lê Trọng Tấn",
+        "name": "Siêu thị Thành Công",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6616936896,
+      "lat": 20.9958478,
+      "lon": 105.8301911,
+      "tags": {
+        "addr:housenumber": "158",
+        "addr:street": "Phó Lê Trọng Tấn",
+        "amenity": "bank",
+        "brand": "VIB",
+        "brand:wikidata": "Q49054349",
+        "name": "VIB"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6617032063,
+      "lat": 20.9993047,
+      "lon": 105.828457,
+      "tags": {
+        "addr:street": "Tôn Thất Tùng",
+        "amenity": "bank",
+        "brand": "SeABank",
+        "brand:wikidata": "Q10800276",
+        "name": "SeABank"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6617270504,
+      "lat": 20.9994636,
+      "lon": 105.8285192,
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Đống Đa",
+        "addr:housenumber": "3",
+        "addr:province": "Hà Nội",
+        "addr:street": "Tôn Thất Tùng",
+        "addr:subdistrict": "Khương Mai",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "BIDV",
+        "brand:wikidata": "Q1003180",
+        "brand:wikipedia": "vi:Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "drive_through": "no",
+        "name": "BIDV",
+        "official_name": "Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "official_name:en": "Bank for Investment and Development of Vietnam",
+        "official_name:vi": "Ngân hàng Đầu tư và Phát triển Việt Nam",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:00-17:00",
+        "phone": "+84 043 574 5698",
+        "website": "https://www.bidv.com.vn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7089810485,
+      "lat": 20.9963442,
+      "lon": 105.8294948,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:postcode": "10000",
+        "addr:street": "Ngõ 134 Lê Trọng Tấn",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "email": "giatruyenkhuongthuong@gmail.com",
+        "internet_access": "wlan",
+        "name": "Lẩu Ốc Bún Ốc Gia Truyền Khương Thượng",
+        "name:en": "Snail Hotpot - Rice noodle with snail from Khuong Thuong old village",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "operator": "bbc and partners jsc",
+        "phone": "0963081390",
+        "website": "https://facebook.com/lauocgiatruyen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8813408794,
+      "lat": 21.0001322,
+      "lon": 105.8300238,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Đối diện 196 Trường Chinh",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8856174811,
+      "lat": 20.9959079,
+      "lon": 105.8303427,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Đối diện 158 Lê Trọng Tấn",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8856174812,
+      "lat": 20.9998554,
+      "lon": 105.8289037,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cạnh hàng rào Bảo tàng Không Quân - Đường Tôn Thất Tùng kéo dài",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8937618770,
+      "lat": 20.9995824,
+      "lon": 105.8277831,
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "52",
+        "addr:postcode": "100000",
+        "addr:province": "Hà Nội",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "addr:subdistrict": "Khương Mai",
+        "amenity": "pharmacy",
+        "brand": "Pharmacity",
+        "brand:wikidata": "Q115324413",
+        "healthcare": "pharmacy",
+        "name": "Pharmacity",
+        "opening_hours": "Mo-Su 06:00-23:30",
+        "operator": "Pharmacity",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+84 1800 6821",
+        "shop": "chemist",
+        "website": "https://www.pharmacity.vn/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8937618771,
+      "lat": 20.9997582,
+      "lon": 105.8278619,
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "46",
+        "addr:province": "Hà Nội",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "addr:subdistrict": "Khương Mai",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "brand:wikipedia": "en:Circle K",
+        "name": "Circle K",
+        "opening_hours": "24/7",
+        "operator": "Red Circle Co., Ltd",
+        "payment:QR_Pay": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+84 24 3200 6067",
+        "shop": "convenience",
+        "website": "https://www.circlek.com.vn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9342635861,
+      "lat": 20.9970256,
+      "lon": 105.8243614,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "131 Hoàng Văn Thái",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9342635862,
+      "lat": 20.9971517,
+      "lon": 105.8242552,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Trung tâm Thể thao Văn hóa Viện Phòng không Không quân",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9420432154,
+      "lat": 20.9973974,
+      "lon": 105.8267585,
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "185",
+        "addr:street": "Phố Nguyễn Ngọc Nại",
+        "addr:subdistrict": "Khương Mai",
+        "amenity": "post_office",
+        "name": "Bưu Điện Khương Mai",
+        "name:en": "Khuong Mai Post Office",
+        "name:tr": "Khuong Mai Postanesi",
+        "operator": "Bưu điện Trung tâm 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9805222035,
+      "lat": 20.9999578,
+      "lon": 105.8273867,
+      "tags": {
+        "addr:district": "Thanh Xuân",
+        "addr:street": "Số 40 Ngõ 181 Trường Chinh",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/themobcoffee",
+        "lgbtq": "welcome",
+        "name": "The Mob Coffee",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "payment:credit_cards": "no",
+        "pets_allowed": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11198940937,
+      "lat": 20.9962878,
+      "lon": 105.8267827,
+      "tags": {
+        "addr:district": "Quận Thanh Xuân",
+        "addr:housenumber": "91",
+        "addr:province": "Thành phố Hà Nội",
+        "addr:street": "Phố Hoàng Văn Thái",
+        "brand": "WinMart+",
+        "brand:wikidata": "Q113236478",
+        "name": "WinMart+",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11198943437,
+      "lat": 20.9973498,
+      "lon": 105.8235883,
+      "tags": {
+        "addr:district": "Quận Thanh Xuân",
+        "addr:housenumber": "147",
+        "addr:province": "Thành phố Hà Nội",
+        "addr:street": "Phố Hoàng Văn Thái",
+        "brand": "WinMart+",
+        "brand:wikidata": "Q113236478",
+        "name": "WinMart+",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11209346437,
+      "lat": 20.9993605,
+      "lon": 105.8276927,
+      "tags": {
+        "addr:district": "Quận Thanh Xuân",
+        "addr:housenumber": "60",
+        "addr:province": "Thành phố Hà Nội",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "brand": "WinMart+",
+        "brand:wikidata": "Q113236478",
+        "name": "WinMart+",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11777236749,
+      "lat": 20.99649,
+      "lon": 105.828607,
+      "tags": {
+        "addr:district": "Quận Thanh Xuân",
+        "addr:province": "Thành phố Hà Nội",
+        "addr:street": "số nhà 16, 69B/39 Hoàng Văn Thái,",
+        "addr:subdistrict": "Phường Khương Mai",
+        "name": "số nhà 16, 69B/39 Hoàng Văn Thái,"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12853640495,
+      "lat": 20.9992877,
+      "lon": 105.8276762,
+      "tags": {
+        "amenity": "atm",
+        "brand": "VPBank",
+        "brand:wikidata": "Q20025914",
+        "cash_in": "yes",
+        "name": "VPBank CDM",
+        "operator": "VPBank",
+        "operator:wikidata": "Q20025914"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12867036197,
+      "lat": 20.9996971,
+      "lon": 105.8285353,
+      "tags": {
+        "amenity": "atm",
+        "brand": "Techcombank",
+        "brand:wikidata": "Q10541776",
+        "cash_in": "yes",
+        "name": "Techcombank CDM",
+        "operator": "Techcombank",
+        "operator:wikidata": "Q10541776"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12878208846,
+      "lat": 20.9990022,
+      "lon": 105.828221,
+      "tags": {
+        "addr:housenumber": "82",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "name": "Điểm cung cấp dịch vụ Viettel",
+        "office": "telecommunication"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13661963311,
+      "lat": 21.0001323,
+      "lon": 105.8300006,
+      "tags": {
+        "access": "yes",
+        "amenity": "vending_machine",
+        "battery_swap": "yes",
+        "brand": "VinFast",
+        "capacity": "6 batteries",
+        "charge": "9000 VND/battery",
+        "currency:VND": "yes",
+        "fee": "yes",
+        "motorcycle": "yes",
+        "name": "Tủ đổi pin VinFast",
+        "name:en": "VinFast Battery-swapping Cabinet",
+        "operator": "VinFast",
+        "payment:app": "yes",
+        "vending": "battery_swap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13680891732,
+      "lat": 20.9959711,
+      "lon": 105.8235865,
+      "tags": {
+        "brand": "WinMart+",
+        "brand:wikidata": "Q113236478",
+        "name": "WinMart+",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11007920,
+      "center": {
+        "lat": 20.999498,
+        "lon": 105.828687
+      },
+      "nodes": [
+        4600895552,
+        10612035887,
+        5686987679,
+        10130533953
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "name": "Phố Tôn Thất Tùng",
+        "name:en": "Ton That Tung Street",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11008124,
+      "center": {
+        "lat": 20.9997687,
+        "lon": 105.8281686
+      },
+      "nodes": [
+        6617292919,
+        10095032291,
+        4245721361,
+        4245721359,
+        98029773,
+        5686987718,
+        5686987717,
+        1758651213,
+        4600895552
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Phố Lê Trọng Tấn",
+        "name:en": "Le Trong Tan Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28913698,
+      "center": {
+        "lat": 20.9971182,
+        "lon": 105.8248979
+      },
+      "nodes": [
+        443399765,
+        12434945019,
+        6662832759,
+        421500418,
+        6662832760,
+        6662832763,
+        1904391985,
+        6415675299,
+        6662832764,
+        5686737482,
+        5689469360,
+        6662832765,
+        421482403,
+        6662832767,
+        421505624,
+        317817119,
+        5686737499,
+        4025155719,
+        6415675292,
+        6415675298,
+        2491211044,
+        6415675291,
+        317817114
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "Phố Hoàng Văn Thái",
+        "name:en": "Hoang Van Thai Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28958235,
+      "center": {
+        "lat": 20.9987524,
+        "lon": 105.8244926
+      },
+      "nodes": [
+        421500430,
+        6415627977,
+        421482509,
+        5835646738,
+        6415627964,
+        5835644952,
+        5835644949,
+        318397541,
+        318397542,
+        6415627975,
+        318397544,
+        5686737627,
+        6415627971,
+        5686385630,
+        6415627983,
+        5686397285,
+        6415627968,
+        6672440859,
+        4025155707,
+        6672440862,
+        5686397287,
+        5686397289,
+        5686397291,
+        6676204592,
+        5686385633,
+        11502487987,
+        318397553
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "Phố Nguyễn Ngọc Nại",
+        "name:en": "Nguyen Ngoc Nai Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36080778,
+      "center": {
+        "lat": 20.9967114,
+        "lon": 105.8270766
+      },
+      "nodes": [
+        421500430,
+        13247239654,
+        5686987713,
+        6662832761,
+        6415627970,
+        421500418
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "Phố Nguyễn Ngọc Nại",
+        "name:en": "Nguyen Ngoc Nai Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36080942,
+      "center": {
+        "lat": 20.997117,
+        "lon": 105.8257913
+      },
+      "nodes": [
+        421482435,
+        8272697103,
+        421482847,
+        421482836,
+        5686737482
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 126 Hoàng Văn Thái",
+        "source": "AsiaGPS",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36082953,
+      "center": {
+        "lat": 20.9973082,
+        "lon": 105.8249624
+      },
+      "nodes": [
+        421482471,
+        421484444,
+        421482480,
+        421484674
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 158 Hoàng Văn Thái",
+        "source": "AsiaGPS"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36083698,
+      "center": {
+        "lat": 20.9968476,
+        "lon": 105.8254879
+      },
+      "nodes": [
+        6662832765,
+        8272697101
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 128 Hoàng Văn Thái",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36084922,
+      "center": {
+        "lat": 20.9946084,
+        "lon": 105.8283498
+      },
+      "nodes": [
+        8266592496,
+        12496012023,
+        8266592497,
+        8266592493,
+        13230058504,
+        8266592494,
+        5689499432,
+        8266592452,
+        5689499433,
+        5689499421,
+        5689499434,
+        5689499435,
+        443399761,
+        443399762,
+        443399763,
+        443399764,
+        443399765
+      ],
+      "tags": {
+        "highway": "residential",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 69A Phố Hoàng Văn Thái",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36085851,
+      "center": {
+        "lat": 20.9977704,
+        "lon": 105.8261246
+      },
+      "nodes": [
+        421482435,
+        421482509
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 164 Phố Nguyễn Ngọc Nại",
+        "source": "AsiaGPS",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36180421,
+      "center": {
+        "lat": 20.9973376,
+        "lon": 105.8245654
+      },
+      "nodes": [
+        6662832766,
+        421484674,
+        6662832767
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 158 Hoàng Văn Thái",
+        "source": "AsiaGPS",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37802479,
+      "center": {
+        "lat": 20.994406,
+        "lon": 105.8311686
+      },
+      "nodes": [
+        443399622,
+        10596588670,
+        10613850584,
+        5689491708,
+        6411415444,
+        5689499428,
+        6411415453,
+        5689491697,
+        6411415463,
+        5689491702,
+        5689491706,
+        6411415452,
+        6611129562,
+        6411415462,
+        4600898590,
+        6611129564,
+        6411415461,
+        5690004042,
+        5690004049,
+        5697944354,
+        5690004044,
+        5697963092,
+        6616664758,
+        443399623
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "name": "Phố Lê Trọng Tấn",
+        "name:en": "Le Trong Tan Street",
+        "note": "Unofficial parking lane on both side of the street which may impact traffic flow",
+        "parking:both": "yes",
+        "parking:both:orientation": "parallel",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37802502,
+      "center": {
+        "lat": 20.9966566,
+        "lon": 105.8286856
+      },
+      "nodes": [
+        443399622,
+        10613850585,
+        10613850586,
+        8272697088,
+        443399770,
+        443399765
+      ],
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "Phố Hoàng Văn Thái",
+        "name:en": "Hoang Van Thai Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38135722,
+      "center": {
+        "lat": 20.9984241,
+        "lon": 105.8273257
+      },
+      "nodes": [
+        98029773,
+        7505045892,
+        5686987711,
+        5686987660,
+        421484635,
+        421484668,
+        5835646744,
+        421484670,
+        8272697068,
+        442594933,
+        421500430
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Phố Nguyễn Viết Xuân",
+        "name:en": "Nguyen Viet Xuan Street",
+        "source": "AsiaGPS",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 179993966,
+      "center": {
+        "lat": 20.9955657,
+        "lon": 105.8263098
+      },
+      "nodes": [
+        1904391985,
+        1905193211,
+        1905193207,
+        1905193201,
+        1904391886,
+        1904392031,
+        2276770414
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Ngõ 93 Phố Hoàng Văn Thái",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 180085327,
+      "center": {
+        "lat": 20.995447,
+        "lon": 105.826771
+      },
+      "nodes": [
+        1904391884,
+        5689499437,
+        1905193207
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 71/30 Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218427767,
+      "center": {
+        "lat": 20.9942437,
+        "lon": 105.8233739
+      },
+      "nodes": [
+        2276771080,
+        2276771081,
+        10281738271,
+        2276771082,
+        10281738272,
+        10764887257,
+        10281738275,
+        10281738277,
+        10281738276,
+        10764887256,
+        10764887255,
+        2276771084,
+        2276771086,
+        10281738265,
+        2276771087,
+        2276771088,
+        10281738267,
+        10281738266,
+        10764887254,
+        10764887252,
+        10764887253,
+        10764887258,
+        10281738268,
+        2276771090,
+        10281738269,
+        10764887259,
+        10764887260,
+        10764887261,
+        10281738270,
+        2276771093,
+        2276771080
+      ],
+      "tags": {
+        "name": "Đầm Hồng",
+        "name:en": "Hong Pond",
+        "natural": "water",
+        "water": "lake"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241503932,
+      "center": {
+        "lat": 20.9967774,
+        "lon": 105.8229489
+      },
+      "nodes": [
+        3540702591,
+        2491211037,
+        8333155934,
+        5686737515,
+        8272697082,
+        8272697077,
+        2491211044
+      ],
+      "tags": {
+        "access": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "horse": "yes",
+        "name": "Ngõ 183 Phố Hoàng Văn Thái",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399835503,
+      "center": {
+        "lat": 21.0009003,
+        "lon": 105.8237932
+      },
+      "nodes": [
+        7226991850,
+        10095032275,
+        5686385629,
+        4025155704,
+        9579894671,
+        4025155705,
+        4025155706,
+        12434872363,
+        4025155707
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Phố Cù Chính Lan",
+        "name:en": "Cu Chinh Lan Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597111780,
+      "center": {
+        "lat": 21.0004873,
+        "lon": 105.8242349
+      },
+      "nodes": [
+        5686385629,
+        13134398337,
+        5686397286,
+        5686385632,
+        8277275799,
+        13134398335,
+        10076403385,
+        8277275797,
+        13134398334,
+        13134398331
+      ],
+      "tags": {
+        "highway": "service",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 3 Phố Cù Chính Lan",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597113041,
+      "center": {
+        "lat": 21.0003573,
+        "lon": 105.8239784
+      },
+      "nodes": [
+        5686397286,
+        5686397284,
+        5686397285
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 55 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597113042,
+      "center": {
+        "lat": 21.0003237,
+        "lon": 105.8233398
+      },
+      "nodes": [
+        5686385643,
+        8277275800,
+        5686397287
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 43 Phố Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597113043,
+      "center": {
+        "lat": 20.9997536,
+        "lon": 105.8229929
+      },
+      "nodes": [
+        5686397289,
+        5686397288
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 22 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597113044,
+      "center": {
+        "lat": 20.9996893,
+        "lon": 105.8226784
+      },
+      "nodes": [
+        5686397291,
+        5686397290
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 12 Phố Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597158122,
+      "center": {
+        "lat": 20.9991875,
+        "lon": 105.8229467
+      },
+      "nodes": [
+        5686397290,
+        5686737490
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "destination",
+        "name": "Ngõ 62 Cù Chính Lan",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597158134,
+      "center": {
+        "lat": 20.9983303,
+        "lon": 105.8229058
+      },
+      "nodes": [
+        12293517128,
+        12293517127,
+        12293517126,
+        5686737621,
+        5686737520,
+        5686737519,
+        5686737622
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 94 Phố Cù Chính Lan",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597158138,
+      "center": {
+        "lat": 20.9988314,
+        "lon": 105.8225635
+      },
+      "nodes": [
+        317817120,
+        11199585115,
+        5686737489,
+        5686737630,
+        12293517125,
+        5686737631
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 93 Phố Vương Thừa Vũ",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200970,
+      "center": {
+        "lat": 20.9987611,
+        "lon": 105.8265828
+      },
+      "nodes": [
+        5835646733,
+        11183208130,
+        13476754279,
+        5686987661
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 149 Phố Nguyễn Ngọc Nại"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200978,
+      "center": {
+        "lat": 20.9970721,
+        "lon": 105.8262672
+      },
+      "nodes": [
+        5686987671,
+        421482847
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 126/4 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200991,
+      "center": {
+        "lat": 20.9971988,
+        "lon": 105.8288561
+      },
+      "nodes": [
+        5686987705,
+        10613763103,
+        5686987700
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 106 Lê Trọng Tấn",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200992,
+      "center": {
+        "lat": 20.9972032,
+        "lon": 105.8285638
+      },
+      "nodes": [
+        5686987706,
+        10130033814,
+        8823488019,
+        5686987709
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 104 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200993,
+      "center": {
+        "lat": 20.9974927,
+        "lon": 105.8286173
+      },
+      "nodes": [
+        5686987709,
+        5686987708,
+        8823488020,
+        10613763101,
+        5686987707
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 86 Phố Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200994,
+      "center": {
+        "lat": 20.9983901,
+        "lon": 105.8271131
+      },
+      "nodes": [
+        5686987710,
+        421484635
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 36 Phố Nguyễn Viết Xuân",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200995,
+      "center": {
+        "lat": 20.9994501,
+        "lon": 105.8267298
+      },
+      "nodes": [
+        12141257554,
+        5686987712,
+        7505045895,
+        13476754278,
+        6443358074
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 2 Phố Nguyễn Viết Xuân",
+        "source": "https://www.streetview.vn/?lat=20.999602558&lng=105.826013887&picId=74030ba5-6780-4933-bba7-0d181161c51b&yaw=107&pitch=-3",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200996,
+      "center": {
+        "lat": 20.9971214,
+        "lon": 105.8273994
+      },
+      "nodes": [
+        5686987715,
+        8272697067,
+        5686987714,
+        5686987713
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 219 Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200997,
+      "center": {
+        "lat": 20.998531,
+        "lon": 105.827905
+      },
+      "nodes": [
+        5686987716,
+        11527519172,
+        5686987717
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 80 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597200998,
+      "center": {
+        "lat": 20.9987586,
+        "lon": 105.8276915
+      },
+      "nodes": [
+        5686987719,
+        11527519173,
+        5686987718
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 64 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597579692,
+      "center": {
+        "lat": 20.996247,
+        "lon": 105.8259693
+      },
+      "nodes": [
+        6662832764,
+        1905193213,
+        5689469359
+      ],
+      "tags": {
+        "bicycle": "yes",
+        "highway": "service",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 119 Phố Hoàng Văn Thái",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584680,
+      "center": {
+        "lat": 20.9952033,
+        "lon": 105.8297944
+      },
+      "nodes": [
+        5689491696,
+        8823495520,
+        5689491698,
+        10613850566,
+        5689491697
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 162 Phố Lê Trọng Tấn",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584681,
+      "center": {
+        "lat": 20.9949791,
+        "lon": 105.8302632
+      },
+      "nodes": [
+        5689491702,
+        10613850568,
+        5689491695,
+        5689491701,
+        5689491700,
+        5689491699
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 164 Phố Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584683,
+      "center": {
+        "lat": 20.9943319,
+        "lon": 105.8304373
+      },
+      "nodes": [
+        12141257537,
+        5689491707,
+        12144338076,
+        6616718182,
+        10613850569,
+        5689491706
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 176 Phố Lê Trọng Tấn",
+        "service": "alley",
+        "source": "https://www.streetview.vn/?lat=20.99421932&lng=105.829727716&picId=791371b1-6799-4890-94f6-4da95fdf315b&yaw=64&pitch=-23",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584684,
+      "center": {
+        "lat": 20.9962871,
+        "lon": 105.8291508
+      },
+      "nodes": [
+        5689491713,
+        10149074603,
+        5689491712,
+        5689491711,
+        8272697097,
+        5689491710,
+        8272697095,
+        5689491709,
+        10613850588,
+        5689491708
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Ngõ 134 Phố Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584685,
+      "center": {
+        "lat": 20.9950912,
+        "lon": 105.8279854
+      },
+      "nodes": [
+        9580049193,
+        9580049192,
+        9580049191,
+        9580049190,
+        9580049189,
+        5689491715,
+        13247256798,
+        5689491714
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 69B/33 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584686,
+      "center": {
+        "lat": 20.9953385,
+        "lon": 105.8275654
+      },
+      "nodes": [
+        5689491716,
+        8266592477,
+        11140553458,
+        5689491714,
+        13247256794,
+        13247256796,
+        12434945020,
+        443399765
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 69B Phố Hoàng Văn Thái",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584690,
+      "center": {
+        "lat": 20.995404,
+        "lon": 105.8296482
+      },
+      "nodes": [
+        11259352601,
+        11259352602,
+        11259352603,
+        11259352604,
+        5689499430,
+        12144338077,
+        5689499429,
+        10613850564,
+        5689499428
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "name": "Ngõ 156 Phố Lê Trọng Tấn",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 597584693,
+      "center": {
+        "lat": 20.9951561,
+        "lon": 105.8270296
+      },
+      "nodes": [
+        10610413512,
+        10610413511,
+        5689499440,
+        9596601890,
+        9870052560,
+        1904391843,
+        1904391884,
+        1904391930,
+        8266592485,
+        421500418
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Ngõ 71 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 617320293,
+      "center": {
+        "lat": 20.998869,
+        "lon": 105.8248186
+      },
+      "nodes": [
+        7404823970,
+        5835644953,
+        5686737628
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 106 Phố Nguyễn Ngọc Nại"
+      }
+    },
+    {
+      "type": "way",
+      "id": 617320311,
+      "center": {
+        "lat": 20.9984046,
+        "lon": 105.8263235
+      },
+      "nodes": [
+        5835646738,
+        5835646737,
+        5835646736,
+        5835646733
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 149 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 675212210,
+      "center": {
+        "lat": 20.9958394,
+        "lon": 105.8234153
+      },
+      "nodes": [
+        3540703793,
+        3540702591
+      ],
+      "tags": {
+        "access": "yes",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "service",
+        "horse": "yes",
+        "lit": "yes",
+        "name": "Ngõ 183 Hoàng Văn Thái",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684347180,
+      "center": {
+        "lat": 20.9952918,
+        "lon": 105.8304482
+      },
+      "nodes": [
+        6411415457,
+        10613850567,
+        6411415463
+      ],
+      "tags": {
+        "highway": "service",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 164 Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684347182,
+      "center": {
+        "lat": 20.9961331,
+        "lon": 105.8298463
+      },
+      "nodes": [
+        5689491709,
+        8705051253,
+        8705051251,
+        8705051252,
+        10613850589,
+        6411415444
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 148 Phố Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684349079,
+      "center": {
+        "lat": 20.9974291,
+        "lon": 105.8290539
+      },
+      "nodes": [
+        5686987706,
+        10613763102,
+        5686987700
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 104 Phố Lê Trọng Tấn",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717263,
+      "center": {
+        "lat": 20.9975351,
+        "lon": 105.8263701
+      },
+      "nodes": [
+        6415627977,
+        6415627961
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 174 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717264,
+      "center": {
+        "lat": 20.9965878,
+        "lon": 105.8277963
+      },
+      "nodes": [
+        443399770,
+        6415627974,
+        12141257596,
+        12141257595
+      ],
+      "tags": {
+        "highway": "residential",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 50 Phố Hoàng Văn Thái",
+        "source": "https://www.streetview.vn/?lat=20.99649041&lng=105.827843991&picId=81c4e351-3e85-4592-ad12-90308153049b&yaw=126&pitch=-1",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717265,
+      "center": {
+        "lat": 20.999268,
+        "lon": 105.8249464
+      },
+      "nodes": [
+        5686737628,
+        5686737627
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 106 Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717267,
+      "center": {
+        "lat": 20.9985454,
+        "lon": 105.826184
+      },
+      "nodes": [
+        6415627964,
+        6415627973
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 141 Phố Nguyễn Ngọc Nại",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717268,
+      "center": {
+        "lat": 20.9992173,
+        "lon": 105.8246572
+      },
+      "nodes": [
+        12918519887,
+        12918519888,
+        12918519889
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 98 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717270,
+      "center": {
+        "lat": 20.9965028,
+        "lon": 105.8275828
+      },
+      "nodes": [
+        6415627970,
+        13190884491,
+        12141257596,
+        6415627980
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 235 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717271,
+      "center": {
+        "lat": 20.9994178,
+        "lon": 105.8253733
+      },
+      "nodes": [
+        6415627975,
+        6415627960
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 111 Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717272,
+      "center": {
+        "lat": 20.9999801,
+        "lon": 105.8240395
+      },
+      "nodes": [
+        6415627983,
+        6415627967
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 59 Phố Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717275,
+      "center": {
+        "lat": 20.9997022,
+        "lon": 105.8251205
+      },
+      "nodes": [
+        6415627962,
+        11502553328,
+        5686737627
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 97 Phố Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684717276,
+      "center": {
+        "lat": 20.9996989,
+        "lon": 105.8236311
+      },
+      "nodes": [
+        6415627968,
+        6415627978
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 34 Nguyễn Ngọc Nại",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684723655,
+      "center": {
+        "lat": 20.9974141,
+        "lon": 105.8232501
+      },
+      "nodes": [
+        6415675292,
+        6415675295
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 163 Phố Hoàng Văn Thái",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684723657,
+      "center": {
+        "lat": 20.9980161,
+        "lon": 105.8228957
+      },
+      "nodes": [
+        6415675302,
+        12094574021
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 210/2 Phố Hoàng Văn Thái",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684723659,
+      "center": {
+        "lat": 20.9980334,
+        "lon": 105.8226854
+      },
+      "nodes": [
+        6415675291,
+        12293517129,
+        12094574021,
+        12293517135,
+        5686737621
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 210 Phố Hoàng Văn Thái",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 684723660,
+      "center": {
+        "lat": 20.9966858,
+        "lon": 105.8265813
+      },
+      "nodes": [
+        6415675299,
+        8272697105,
+        5686987671
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "name": "Ngõ 96 Phố Hoàng Văn Thái",
+        "service": "alley",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687392828,
+      "center": {
+        "lat": 20.9996302,
+        "lon": 105.8274126
+      },
+      "nodes": [
+        4245721358,
+        7505045893,
+        13476754278
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 181 Đường Trường Chinh",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 710072101,
+      "center": {
+        "lat": 21.0002212,
+        "lon": 105.8227241
+      },
+      "nodes": [
+        6676204592,
+        6676204591
+      ],
+      "tags": {
+        "highway": "residential",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 21 Nguyễn Ngọc Nại",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 710271844,
+      "center": {
+        "lat": 21.0005892,
+        "lon": 105.8272377
+      },
+      "nodes": [
+        6677217866,
+        10095032289,
+        5686426670
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 199 Đường Trường Chinh",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 725772905,
+      "center": {
+        "lat": 20.9986752,
+        "lon": 105.8234355
+      },
+      "nodes": [
+        4025155707,
+        6672440861,
+        4025155708,
+        4025155709,
+        4025155710,
+        5686737490,
+        4025155711,
+        4025155712,
+        4025155713,
+        5686737631,
+        9491901187,
+        4025155714,
+        5686737622,
+        4025155715,
+        4025155716,
+        8784485403,
+        6662832771,
+        4025155717,
+        11142725774,
+        4025155719
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Phố Cù Chính Lan",
+        "name:en": "Cu Chinh Lan Street",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 740599803,
+      "center": {
+        "lat": 20.999693,
+        "lon": 105.8325008
+      },
+      "nodes": [
+        7985603138,
+        10130533962,
+        7842712630,
+        10130548078,
+        10130548079,
+        8324650946,
+        6617075639,
+        10612035877,
+        5686449780,
+        5687055679,
+        104790704,
+        5687055668,
+        10131967122,
+        6688357744,
+        283131195
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lit": "yes",
+        "name": "Đường Trường Chinh",
+        "name:en": "Truong Chinh Road",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "surface": "asphalt",
+        "turn:lanes": "through|through;right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755360063,
+      "center": {
+        "lat": 20.9949689,
+        "lon": 105.8232414
+      },
+      "nodes": [
+        7055920945,
+        7055920946,
+        7055920947,
+        7055920948,
+        7055920945
+      ],
+      "tags": {
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Sân bóng Đầm Hồng 1",
+        "sport": "soccer",
+        "surface": "artificial_turf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 758646384,
+      "center": {
+        "lat": 21.000472,
+        "lon": 105.8277396
+      },
+      "nodes": [
+        7085592554,
+        10095032290,
+        4245721360,
+        4245721358
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 181 Đường Trường Chinh",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 782645565,
+      "center": {
+        "lat": 20.9999286,
+        "lon": 105.8277663
+      },
+      "nodes": [
+        4245721358,
+        4245721359
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 28 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802340753,
+      "center": {
+        "lat": 20.9996015,
+        "lon": 105.8273127
+      },
+      "nodes": [
+        10109260143,
+        10109260144,
+        7505045894,
+        10109260141,
+        7505045893,
+        7505045892
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 52 Phố Lê Trọng Tấn",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802340754,
+      "center": {
+        "lat": 20.999458,
+        "lon": 105.8271291
+      },
+      "nodes": [
+        7505045894,
+        7505045895
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 2/10 Phố Nguyễn Viết Xuân"
+      }
+    },
+    {
+      "type": "way",
+      "id": 838560582,
+      "center": {
+        "lat": 20.9935975,
+        "lon": 105.8329131
+      },
+      "nodes": [
+        9047494925,
+        7826154593,
+        8398777274,
+        6617075634,
+        6617075636,
+        8398777272,
+        5687055673,
+        9047495002,
+        9047495005,
+        9047495006,
+        8398777268,
+        8398777269,
+        8398777267,
+        7826154595,
+        5687055636,
+        5687055634,
+        5687055633,
+        5687055632,
+        5687055631,
+        5687055635,
+        5689558056,
+        11098413680,
+        7826154599,
+        7826154600,
+        7826154601,
+        7826154602,
+        7826154603,
+        8398777266,
+        7826154604,
+        8398777265,
+        8398777264,
+        8398777263,
+        7826154605,
+        7826154606,
+        7826154607,
+        7826154608,
+        7826154609,
+        5710247579,
+        5710247580,
+        12228985498,
+        6411446728,
+        12228985496,
+        12228985497,
+        7826154612,
+        7826154613,
+        8398777262,
+        7826154614,
+        5698574969,
+        5698531355,
+        5697944363,
+        8398777258,
+        8398777257,
+        5698531365,
+        6621210163,
+        7826154615,
+        7826154616,
+        8398777253,
+        7826154617,
+        6621303736,
+        7826154618,
+        5698575001,
+        7826154620,
+        9047495009,
+        7826154621,
+        5710247589,
+        7826154622,
+        7826154623,
+        8398777248,
+        8398777247,
+        11220230763,
+        11220230766,
+        8398777246,
+        5466159284,
+        11220208056,
+        7842712601,
+        11299990092,
+        7842712604,
+        8393142573,
+        9047494927,
+        9047494926,
+        9047494925
+      ],
+      "tags": {
+        "landuse": "military",
+        "name": "Bộ Tư lệnh Quân chủng Không quân",
+        "name:en": "Ministry of the People's Air Force",
+        "wikidata": "Q10810261",
+        "wikipedia": "vi:Quân chủng Phòng không – Không quân, Quân đội nhân dân Việt Nam"
+      }
+    },
+    {
+      "type": "way",
+      "id": 840467994,
+      "center": {
+        "lat": 20.9998359,
+        "lon": 105.8283792
+      },
+      "nodes": [
+        7842682184,
+        7842712591,
+        7842712592,
+        7842712585,
+        7842712586,
+        7842712588,
+        7842712595,
+        7842712596,
+        7842712589,
+        7842712590,
+        7842682184
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "3",
+        "addr:street": "Phó Lê Trọng Tấn",
+        "addr:subdistrict": "Khương Mai",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "name": "Trung tâm thương mại Artemis",
+        "name:en": "Artemis Shopping Center",
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985055,
+      "center": {
+        "lat": 20.9973582,
+        "lon": 105.8272212
+      },
+      "nodes": [
+        8272697068,
+        8272697067
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 61 Phố Nguyễn Viết Xuân"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985058,
+      "center": {
+        "lat": 20.995826,
+        "lon": 105.8256161
+      },
+      "nodes": [
+        1905193207,
+        8272697072,
+        5689469404
+      ],
+      "tags": {
+        "highway": "residential",
+        "name": "Ngách 93/20 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985061,
+      "center": {
+        "lat": 20.9970081,
+        "lon": 105.8232367
+      },
+      "nodes": [
+        6415675295,
+        12141645038,
+        12141645042,
+        12141645040,
+        8272697078
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 163 Phố Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985066,
+      "center": {
+        "lat": 20.9967593,
+        "lon": 105.8285607
+      },
+      "nodes": [
+        5686987705,
+        8272697088
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcycle": "yes",
+        "name": "Ngõ 106 Phố Lê Trọng Tấn",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985068,
+      "center": {
+        "lat": 20.9959909,
+        "lon": 105.8294887
+      },
+      "nodes": [
+        8272697095,
+        8705051254,
+        10127344739
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 134/3 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985069,
+      "center": {
+        "lat": 20.9958909,
+        "lon": 105.8290852
+      },
+      "nodes": [
+        8272697097,
+        10127354217,
+        12141257553,
+        8272697096
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 134/15 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 889985074,
+      "center": {
+        "lat": 20.9967681,
+        "lon": 105.8261506
+      },
+      "nodes": [
+        421482836,
+        8272697106,
+        8272697105
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 126/2 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 890573949,
+      "center": {
+        "lat": 21.0004554,
+        "lon": 105.8268857
+      },
+      "nodes": [
+        8277275794,
+        10095032282,
+        11276434841,
+        8277275793,
+        11276434842,
+        8277275792,
+        11276434846,
+        11276434845,
+        11276434847,
+        11276434849,
+        8277275791,
+        11276434851,
+        11276434855,
+        11276434852,
+        8277275789,
+        11276434857
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "destination",
+        "name": "Ngõ 203 Trường Chinh",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 890573950,
+      "center": {
+        "lat": 21.0003857,
+        "lon": 105.8247805
+      },
+      "nodes": [
+        8277275797,
+        8277275796,
+        8277275798
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 3/29 Phố Cù Chính Lan",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 903697302,
+      "center": {
+        "lat": 21.0002165,
+        "lon": 105.8257561
+      },
+      "nodes": [
+        8393142575,
+        8393142576,
+        8393142577,
+        8393142578,
+        8393142579,
+        8767931863,
+        8393142580,
+        8767931862,
+        8393142581,
+        8393142582,
+        8393142583,
+        8393142584,
+        8393142585,
+        8393142586,
+        8393142587,
+        8393142588,
+        8393142589,
+        8393142590,
+        8393142591,
+        8393142592,
+        8393142593,
+        8393142594,
+        8393142595,
+        8393142596,
+        8393142597,
+        8393142598,
+        8393142599,
+        8393142600,
+        8393142601,
+        8767931867,
+        8767931864,
+        8393142602,
+        11365693526,
+        5686397282,
+        11365693527,
+        8393142606,
+        8767931855,
+        8393142607,
+        8393142608,
+        8393142575
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Viện Y học Phòng không - Không quân"
+      }
+    },
+    {
+      "type": "way",
+      "id": 947208596,
+      "center": {
+        "lat": 20.9987574,
+        "lon": 105.8252174
+      },
+      "nodes": [
+        8767931898,
+        8767931899,
+        8767931900,
+        8767931910,
+        8767931909,
+        8767931901,
+        8767931902,
+        8767931904,
+        8767931903,
+        8767931898
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:street": "Ngõ 106 Nguyễn Ngọc Nại",
+        "amenity": "school",
+        "education": "school",
+        "grades": "1-5",
+        "name": "Trường Tiểu học Khương Mai"
+      }
+    },
+    {
+      "type": "way",
+      "id": 947208600,
+      "center": {
+        "lat": 20.9981037,
+        "lon": 105.8253051
+      },
+      "nodes": [
+        8767931919,
+        8767931920,
+        8767931921,
+        8767931922,
+        8767931919
+      ],
+      "tags": {
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Trạm Y tế phường Khương Mai"
+      }
+    },
+    {
+      "type": "way",
+      "id": 947208601,
+      "center": {
+        "lat": 20.9981053,
+        "lon": 105.8255979
+      },
+      "nodes": [
+        8767931923,
+        8767931924,
+        8767931925,
+        8767931926,
+        8767931923
+      ],
+      "tags": {
+        "amenity": "police",
+        "building": "yes",
+        "name": "Công an phường Phương Liệt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 947208602,
+      "center": {
+        "lat": 20.9983908,
+        "lon": 105.8257274
+      },
+      "nodes": [
+        8767931927,
+        8767931928,
+        8767931929,
+        8767931930,
+        8767931931,
+        8767931932,
+        8767931933,
+        8767931934,
+        8767931927
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:housenumber": "136",
+        "addr:street": "Phố Nguyễn Ngọc Nại",
+        "amenity": "townhall",
+        "building": "government",
+        "name": "UBND phường Phương Liệt",
+        "townhall:type": "ward"
+      }
+    },
+    {
+      "type": "way",
+      "id": 947208605,
+      "center": {
+        "lat": 20.9962708,
+        "lon": 105.8254465
+      },
+      "nodes": [
+        8767931956,
+        8767931961,
+        8767931962,
+        8767931963,
+        8767931992,
+        8767931964,
+        8767931991,
+        8767931965,
+        8767931966,
+        8767931967,
+        8767931968,
+        8767931969,
+        8767931970,
+        8767931971,
+        8767931956
+      ],
+      "tags": {
+        "landuse": "commercial",
+        "name": "Công ty NEWTATCO"
+      }
+    },
+    {
+      "type": "way",
+      "id": 948930793,
+      "center": {
+        "lat": 20.9979559,
+        "lon": 105.8232974
+      },
+      "nodes": [
+        8784485403,
+        8784485402,
+        12094574019,
+        12094574020,
+        12094574022
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 100 Phố Cù Chính Lan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 948942114,
+      "center": {
+        "lat": 20.9987723,
+        "lon": 105.82728
+      },
+      "nodes": [
+        6443358073,
+        5686987660
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 20 Phố Nguyễn Viết Xuân",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 977795571,
+      "center": {
+        "lat": 20.9993212,
+        "lon": 105.8300285
+      },
+      "nodes": [
+        9047494928,
+        9047494929,
+        9047494930,
+        9047494931,
+        9047494932,
+        9047494933,
+        9047494934,
+        9047494935,
+        9047494936,
+        9047494937,
+        9047494938,
+        9047494939,
+        9047494940,
+        9047494941,
+        9047494942,
+        9047494928
+      ],
+      "tags": {
+        "name": "Hồ Không Lực",
+        "natural": "water",
+        "water": "lake"
+      }
+    },
+    {
+      "type": "way",
+      "id": 977795572,
+      "center": {
+        "lat": 20.9999851,
+        "lon": 105.8300569
+      },
+      "nodes": [
+        9047494943,
+        9047494944,
+        9047494945,
+        9047494952,
+        9047494946,
+        9047494943
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "173",
+        "addr:province": "Hà Nội",
+        "addr:street": "Đường Trường Chinh",
+        "addr:subdistrict": "Khương Mai",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "FPT Shop",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "way",
+      "id": 977795573,
+      "center": {
+        "lat": 20.9999671,
+        "lon": 105.8301704
+      },
+      "nodes": [
+        9047494948,
+        9047494952,
+        9047494946,
+        9047494947,
+        9047494948
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "173B",
+        "addr:province": "Hà Nội",
+        "addr:street": "Đường Trường Chinh",
+        "addr:subdistrict": "Khương Mai",
+        "building": "yes",
+        "name": "Viet Brothers",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 977795575,
+      "center": {
+        "lat": 20.9993851,
+        "lon": 105.8307536
+      },
+      "nodes": [
+        9047494974,
+        9047494975,
+        9047494976,
+        9047494977,
+        9047494978,
+        9047494979,
+        9047494980,
+        9047494981,
+        9047494974
+      ],
+      "tags": {
+        "amenity": "events_venue",
+        "building": "yes",
+        "name": "Trống Đồng Palace Cảnh Hồ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 977795576,
+      "center": {
+        "lat": 20.9999141,
+        "lon": 105.8303358
+      },
+      "nodes": [
+        9047494947,
+        9047494948,
+        9047494949,
+        9047494950,
+        9047494951,
+        9047494947
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "173B",
+        "addr:province": "Hà Nội",
+        "addr:street": "Đường Trường Chinh",
+        "addr:subdistrict": "Khương Mai",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Nhà hàng Cảnh Hồ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1012665663,
+      "center": {
+        "lat": 20.9978944,
+        "lon": 105.8289839
+      },
+      "nodes": [
+        4600895552,
+        5835646724,
+        6617032064,
+        8823466612,
+        5686987702,
+        5686987707,
+        5686987700,
+        10613850509,
+        443399622
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "name": "Phố Lê Trọng Tấn",
+        "name:en": "Le Trong Tan Street",
+        "note": "Unofficial parking lane on both side of the street which may impact traffic flow",
+        "parking:both": "yes",
+        "parking:both:orientation": "parallel",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1029556922,
+      "center": {
+        "lat": 20.9987129,
+        "lon": 105.8234549
+      },
+      "nodes": [
+        9491901187,
+        9491901188,
+        9491901189,
+        9491901190,
+        9491901191,
+        9491901192,
+        9491901193,
+        9491901194,
+        9491901195
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 103 Phố Cù Chính Lan"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1042541901,
+      "center": {
+        "lat": 20.994298,
+        "lon": 105.8257538
+      },
+      "nodes": [
+        12141257562,
+        9596652042,
+        12141257563,
+        9596652044,
+        9596652043
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 93/73 Phố Hoàng Văn Thái",
+        "service": "alley",
+        "source": "https://www.streetview.vn/?lat=20.993987234&lng=105.825920648&picId=53818f88-8696-4924-bfcb-d7127729d344&yaw=53&pitch=-8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1076307509,
+      "center": {
+        "lat": 20.994636,
+        "lon": 105.8263931
+      },
+      "nodes": [
+        9870052560,
+        9870052561,
+        11829562700,
+        9870052562,
+        9870052563,
+        2276770414
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "destination",
+        "name": "Ngách 66 Ngõ 71 Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1101003366,
+      "center": {
+        "lat": 21.0001565,
+        "lon": 105.8244114
+      },
+      "nodes": [
+        10076403385,
+        10076403384
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 3/36 Phố Cù Chính Lan",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1104733477,
+      "center": {
+        "lat": 20.9997726,
+        "lon": 105.8272348
+      },
+      "nodes": [
+        10109260141,
+        10109260142
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 52 Phố Lê Trọng Tấn",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106740101,
+      "center": {
+        "lat": 20.9957997,
+        "lon": 105.828945
+      },
+      "nodes": [
+        10127354217,
+        10127354218
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Hẻm 134/15/12 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107066453,
+      "center": {
+        "lat": 20.9974206,
+        "lon": 105.8286011
+      },
+      "nodes": [
+        8823488020,
+        10130033814
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 86 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1107066454,
+      "center": {
+        "lat": 20.9975175,
+        "lon": 105.8287769
+      },
+      "nodes": [
+        8823488020,
+        5686987706
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 86 Phố Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1109215520,
+      "center": {
+        "lat": 20.9959846,
+        "lon": 105.8285581
+      },
+      "nodes": [
+        10149074603,
+        10149074604,
+        10149074605,
+        10149074606
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 134/33 Phố Lê Trọng Tấn",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110572073,
+      "center": {
+        "lat": 20.991065,
+        "lon": 105.8221632
+      },
+      "nodes": [
+        8341509535,
+        10159724081,
+        10184921422,
+        10184921423,
+        10159724080,
+        10159724079,
+        10159724078,
+        10159724077,
+        10184921428,
+        13516352266,
+        13516352264,
+        4600895552
+      ],
+      "tags": {
+        "highway": "proposed",
+        "name": "Đường Tôn Thất Tùng mở rộng",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110572074,
+      "center": {
+        "lat": 20.9911909,
+        "lon": 105.8220682
+      },
+      "nodes": [
+        1758651213,
+        10184921429,
+        10159724085,
+        10159724084,
+        10184921420,
+        10184921421,
+        10159724083,
+        10743484787
+      ],
+      "tags": {
+        "highway": "proposed",
+        "name": "Đường Tôn Thất Tùng mở rộng",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110657723,
+      "center": {
+        "lat": 20.9974057,
+        "lon": 105.8284613
+      },
+      "nodes": [
+        10160752719,
+        10160752720,
+        10160752721,
+        10160752722,
+        10160752723,
+        10160752719
+      ],
+      "tags": {
+        "building": "apartments"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1117033863,
+      "center": {
+        "lat": 20.9968807,
+        "lon": 105.8283365
+      },
+      "nodes": [
+        10216207918,
+        10216207916,
+        10216207911,
+        10216207914,
+        10216207912,
+        10216207910,
+        10216207913,
+        10216207915,
+        10216207917,
+        10216207918
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Chung Cư C1 C2 Ngõ 106 Lê Trọng Tấn"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1126663848,
+      "center": {
+        "lat": 20.9965858,
+        "lon": 105.8225989
+      },
+      "nodes": [
+        10302200147,
+        5686737515
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 183 Ngách 38 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201621552,
+      "center": {
+        "lat": 20.9948577,
+        "lon": 105.8279084
+      },
+      "nodes": [
+        11140553458,
+        11140553459,
+        11140553460,
+        11140553461,
+        11140553462,
+        11140553463,
+        8266592476
+      ],
+      "tags": {
+        "highway": "service",
+        "layer": "1",
+        "name": "Ngách 39 Ngõ 69B Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1201837322,
+      "center": {
+        "lat": 20.9977538,
+        "lon": 105.8233161
+      },
+      "nodes": [
+        11142725774,
+        12094574023,
+        11142725775
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 106 Phố Cù Chính Lan",
+        "source": "https://www.streetview.vn/?lat=20.997789592&lng=105.823309644&picId=6d554477-637d-469b-9a59-0d21256bfbbd&yaw=115&pitch=-8"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1216977123,
+      "center": {
+        "lat": 21.0000817,
+        "lon": 105.8267716
+      },
+      "nodes": [
+        8277275791,
+        11276434848
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "destination",
+        "name": "Ngõ 203 Đường Trường Chinh",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1216977125,
+      "center": {
+        "lat": 20.9999111,
+        "lon": 105.8264978
+      },
+      "nodes": [
+        8277275789,
+        11276434860,
+        11276434858,
+        11276434859,
+        11276456808,
+        11276456806,
+        11276456810
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 203 Đường Trường Chinh",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1216978025,
+      "center": {
+        "lat": 20.9998348,
+        "lon": 105.82629
+      },
+      "nodes": [
+        11276434859,
+        11276456807,
+        11276456809
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "destination",
+        "name": "Ngõ 203 Đường Trường Chinh",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1219524639,
+      "center": {
+        "lat": 20.999274,
+        "lon": 105.8292331
+      },
+      "nodes": [
+        11299990093,
+        11299990094,
+        11299990095,
+        11299990096,
+        7842712601,
+        11299990092,
+        7842712604,
+        11299990093
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:country": "VN",
+        "addr:district": "Thanh Xuân",
+        "addr:housenumber": "173C",
+        "addr:province": "Hà Nội",
+        "addr:street": "Đường Trường Chinh",
+        "addr:subdistrict": "Khương Mai",
+        "fee": "yes",
+        "landuse": "military",
+        "museum": "military",
+        "name": "Bảo tàng Phòng không - Không quân",
+        "opening_hours": "Mo-Su 08:00-11:00,13:00-16:00; Fr off",
+        "operator": "Quân chủng Phòng không - Không quân Việt Nam",
+        "operator:type": "military",
+        "tourism": "museum",
+        "wikidata": "Q7928536",
+        "wikimedia_commons": "Category:Vietnamese Air Force Museum in Hanoi",
+        "wikipedia": "vi:Bảo tàng Phòng không - Không quân (Việt Nam)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1238256160,
+      "center": {
+        "lat": 20.9998334,
+        "lon": 105.8248654
+      },
+      "nodes": [
+        5686385631,
+        11502553328
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 97 Phố Nguyễn Ngọc Nại",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1273973397,
+      "center": {
+        "lat": 20.9945285,
+        "lon": 105.8262589
+      },
+      "nodes": [
+        11829562700,
+        11829562702,
+        11829562703,
+        11829579682
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Hẻm 1 Ngách 66 Ngõ 71 Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298949411,
+      "center": {
+        "lat": 20.9955681,
+        "lon": 105.8232854
+      },
+      "nodes": [
+        12032732607,
+        12032732608,
+        12032732609,
+        12032732610,
+        12032732607
+      ],
+      "tags": {
+        "building": "apartments",
+        "name": "CT1-2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298949412,
+      "center": {
+        "lat": 20.9954715,
+        "lon": 105.8226781
+      },
+      "nodes": [
+        12032732611,
+        12032732612,
+        12032732613,
+        12032732614,
+        12032732611
+      ],
+      "tags": {
+        "building": "apartments",
+        "name": "CT1-1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298949413,
+      "center": {
+        "lat": 20.9960116,
+        "lon": 105.8234144
+      },
+      "nodes": [
+        12032732615,
+        12032732616,
+        12032732617,
+        12032732618,
+        12032732615
+      ],
+      "tags": {
+        "building": "apartments",
+        "name": "CT2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298949414,
+      "center": {
+        "lat": 20.9959585,
+        "lon": 105.8230631
+      },
+      "nodes": [
+        12032732619,
+        12032732620,
+        12032732621,
+        12032732622,
+        12032732623,
+        12032732624,
+        12032732619
+      ],
+      "tags": {
+        "addr:city": "Phường Khương Trung",
+        "addr:street": "Ngõ 183 Phố Hoàng Văn Thái",
+        "landuse": "residential",
+        "name": "Khu nhà ở 183 Hoàng Văn Thái",
+        "residential": "apartments"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1305862349,
+      "center": {
+        "lat": 20.9979747,
+        "lon": 105.8230953
+      },
+      "nodes": [
+        12094574020,
+        6415675302
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 192 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311670578,
+      "center": {
+        "lat": 20.9968073,
+        "lon": 105.8279091
+      },
+      "nodes": [
+        6415627980,
+        12141257592,
+        12141257593,
+        12141257594
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 235 Nguyễn Ngọc Nại",
+        "source": "https://www.streetview.vn/?lat=20.997070497&lng=105.82808386&picId=eeca2a59-5a7b-4054-b676-445897110fbd&yaw=212&pitch=-6",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311713368,
+      "center": {
+        "lat": 20.996815,
+        "lon": 105.8234051
+      },
+      "nodes": [
+        12141645040,
+        12141645039
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 163 Phố Hoàng Văn Thái",
+        "service": "alley",
+        "source": "https://www.streetview.vn/?lat=20.99683311&lng=105.823396175&picId=2c7d7bc9-350f-477c-91a4-80f47dff761d&yaw=292&pitch=-12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1311713369,
+      "center": {
+        "lat": 20.9970286,
+        "lon": 105.8234045
+      },
+      "nodes": [
+        12141645042,
+        12141645041
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 163 Phố Hoàng Văn Thái",
+        "service": "alley",
+        "source": "https://www.streetview.vn/?lat=20.997003117&lng=105.823348959&picId=ae149b12-e694-49f6-8068-bfa9ffbe28e9&yaw=84&pitch=0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328756043,
+      "center": {
+        "lat": 20.9985108,
+        "lon": 105.8227639
+      },
+      "nodes": [
+        12293517125,
+        12293517126
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 93/30 Phố Vương Thừa Vũ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328756044,
+      "center": {
+        "lat": 20.997804,
+        "lon": 105.8230238
+      },
+      "nodes": [
+        6415675298,
+        11142725775,
+        6415675302
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 192 Phố Hoàng Văn Thái",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328756045,
+      "center": {
+        "lat": 20.9981315,
+        "lon": 105.8224289
+      },
+      "nodes": [
+        12293517129,
+        12293517130
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 210/1 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328756047,
+      "center": {
+        "lat": 20.998236,
+        "lon": 105.822469
+      },
+      "nodes": [
+        12293517135,
+        12293517133
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 210/3 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1362305268,
+      "center": {
+        "lat": 20.9944672,
+        "lon": 105.8256412
+      },
+      "nodes": [
+        2276770414,
+        2276770411,
+        2276770405,
+        9596652043,
+        2276770402,
+        5689469369
+      ],
+      "tags": {
+        "highway": "residential",
+        "maxwidth": "2",
+        "name": "Ngõ 93 Phố Hoàng Văn Thái"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395648405,
+      "center": {
+        "lat": 20.9994472,
+        "lon": 105.8247132
+      },
+      "nodes": [
+        6415627971,
+        6415627981,
+        12918519887
+      ],
+      "tags": {
+        "highway": "service",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 98 Phố Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428771662,
+      "center": {
+        "lat": 20.9999741,
+        "lon": 105.824445
+      },
+      "nodes": [
+        13134398331,
+        13134398332
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 89 Phố Nguyễn Ngọc Nại",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428771663,
+      "center": {
+        "lat": 20.9997865,
+        "lon": 105.8246107
+      },
+      "nodes": [
+        13134398331,
+        5686385631,
+        5686385630
+      ],
+      "tags": {
+        "highway": "service",
+        "moped": "yes",
+        "motor_vehicle": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 89 Phố Nguyễn Ngọc Nại",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443633343,
+      "center": {
+        "lat": 20.9970116,
+        "lon": 105.8267988
+      },
+      "nodes": [
+        5686987671,
+        13247239653,
+        13247239655,
+        13247239654
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "name": "Ngõ 96 Phố Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1443640644,
+      "center": {
+        "lat": 20.9953784,
+        "lon": 105.8278327
+      },
+      "nodes": [
+        13247256794,
+        13247256797,
+        13247256795
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 69B/31 Phố Hoàng Văn Thái",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515239,
+      "center": {
+        "lat": 20.9985184,
+        "lon": 105.8267227
+      },
+      "nodes": [
+        5835646733,
+        5835646732,
+        5835646731,
+        5835646730,
+        5686987710
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngõ 36 Phố Nguyễn Viết Xuân",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515240,
+      "center": {
+        "lat": 20.9984573,
+        "lon": 105.8269585
+      },
+      "nodes": [
+        6443358073,
+        5686987710,
+        6443358071
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 36/8 Phố Nguyễn Viết Xuân",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515241,
+      "center": {
+        "lat": 20.9992026,
+        "lon": 105.8274674
+      },
+      "nodes": [
+        6443358074,
+        5686987711
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 2 Phố Nguyễn Viết Xuân",
+        "source": "https://www.streetview.vn/?lat=20.999602558&lng=105.826013887&picId=74030ba5-6780-4933-bba7-0d181161c51b&yaw=107&pitch=-3",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515242,
+      "center": {
+        "lat": 20.9990434,
+        "lon": 105.8272063
+      },
+      "nodes": [
+        6443358074,
+        6443358073
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngách 20/8 Phố Nguyễn Viết Xuân",
+        "service": "alley",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515243,
+      "center": {
+        "lat": 20.9989068,
+        "lon": 105.8263778
+      },
+      "nodes": [
+        13476754279,
+        13476754280
+      ],
+      "tags": {
+        "highway": "service",
+        "name": "Ngách 25 Ngõ 149 Phố Nguyễn Ngọc Nại",
+        "service": "alley"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1469515244,
+      "center": {
+        "lat": 20.9989099,
+        "lon": 105.8268927
+      },
+      "nodes": [
+        5686987661,
+        6443358073
+      ],
+      "tags": {
+        "highway": "service",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Ngõ 20 Phố Nguyễn Viết Xuân"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1473300995,
+      "center": {
+        "lat": 20.9986296,
+        "lon": 105.8284546
+      },
+      "nodes": [
+        13516352263,
+        13516352264,
+        13516352265,
+        13516352266,
+        13516352263
+      ],
+      "tags": {
+        "addr:city": "Hà Nội",
+        "addr:housenumber": "86B",
+        "addr:street": "Phố Lê Trọng Tấn",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Bia hơi Hải Xồm"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1475063525,
+      "center": {
+        "lat": 20.9987428,
+        "lon": 105.8449406
+      },
+      "nodes": [
+        12314104284,
+        13532409232,
+        13532409233,
+        13532409234,
+        13532409235,
+        13532409236,
+        13532409237,
+        13532409238,
+        13532409239,
+        12314096125,
+        13532409240,
+        13532409241,
+        13532409242,
+        12314096127,
+        13532409243,
+        13532409244,
+        12314096129,
+        12314096131,
+        13532409245,
+        12314096134,
+        12314096136,
+        13532409246,
+        13532420569,
+        12314096137,
+        13532409247,
+        12314096138,
+        13532409248,
+        13532409249,
+        12726065971,
+        13532409250,
+        13532409251,
+        13532420571,
+        13532409252,
+        12314096140,
+        13532409253,
+        13532409254,
+        12314096141,
+        13532409255,
+        13532409256,
+        12314096143,
+        13532409257,
+        13532409258,
+        12314096144,
+        13532409259,
+        13532409260,
+        12314096150,
+        13532420475,
+        12314096155,
+        13532420471,
+        13532420474,
+        13532420473,
+        13532420472,
+        12314096156,
+        13532420470,
+        13532420479,
+        12314096158,
+        13532420469,
+        13532420480,
+        13532409261,
+        12314096161,
+        13532409262,
+        13532420481,
+        13532420482,
+        13532409263,
+        12314096164,
+        13532409264,
+        13532420483,
+        12314096167,
+        13532409265,
+        13532420484,
+        12314096168,
+        13532409266,
+        13532420493,
+        13532409267,
+        12314096169,
+        13532420496,
+        13532420497,
+        13532420498,
+        13532420500,
+        13532420502,
+        13532420504,
+        12314096171,
+        13532420503,
+        13532420501,
+        13532420499,
+        13532420495,
+        12314096172,
+        13532409268,
+        13532409269,
+        13532409270,
+        13532409271,
+        13532409272,
+        13532409273,
+        13532409274,
+        13532409275,
+        13532409276,
+        13532409277,
+        13532409278,
+        13532409279,
+        13532409280,
+        13532409281,
+        13532409282,
+        13532409283,
+        12314096194,
+        12314096196,
+        12726065995,
+        13532409284,
+        13532409285,
+        12314096199,
+        13532409286,
+        13532409287,
+        13532409288,
+        12314104201,
+        13532420537,
+        13532409289,
+        13532409290,
+        13532409291,
+        13532420524,
+        13532409292,
+        12314104206,
+        13532409293,
+        12726065998,
+        13532409294,
+        12726065997,
+        13532409295,
+        13532420528,
+        12726065996,
+        13532409296,
+        13532420530,
+        12314104213,
+        13532420536,
+        13532409297,
+        13532420535,
+        12314104214,
+        12314104215,
+        13532409298,
+        12314104217,
+        13532409299,
+        13532409300,
+        13532420401,
+        13532420402,
+        12314104221,
+        12314104223,
+        13532420403,
+        12314104225,
+        13532420407,
+        13532420408,
+        13532420409,
+        12314104228,
+        13532420410,
+        13532420521,
+        13532420411,
+        12314104230,
+        13532420412,
+        13532420522,
+        13532420413,
+        13532420414,
+        12726065992,
+        13532420415,
+        12314104231,
+        13532420416,
+        13532420420,
+        12314104232,
+        13532420509,
+        12314104234,
+        13532420421,
+        12314104236,
+        12314104238,
+        13532420422,
+        13532420510,
+        13532420423,
+        13532420424,
+        13532420425,
+        13532420426,
+        13532420427,
+        13532420428,
+        13532420429,
+        12314104251,
+        13532420564,
+        13532420430,
+        13532420563,
+        13532420431,
+        12314104248,
+        13532420562,
+        13532420432,
+        13532420433,
+        12314104245,
+        13532420434,
+        13532420561,
+        13532420435,
+        12314104244,
+        13532420436,
+        12314104243,
+        13532420476,
+        13532420558,
+        13532420437,
+        13532420438,
+        12314104241,
+        13532420560,
+        13532420439,
+        13532420440,
+        13532420559,
+        13532420441,
+        12314104253,
+        13532420442,
+        12314104255,
+        12314104261,
+        13532420443,
+        13532420444,
+        13532420445,
+        12314104263,
+        12314104264,
+        13532420446,
+        13532420447,
+        13532420448,
+        13532420449,
+        13532420450,
+        13532420451,
+        13532420452,
+        13532420453,
+        13532420454,
+        13532420455,
+        13532420456,
+        13532420457,
+        12314104274,
+        13532420458,
+        13532420459,
+        13532420460,
+        13532420461,
+        13532420462,
+        13532420463,
+        12314104280,
+        13532420464,
+        12314104281,
+        13532420465,
+        13532420466,
+        13532420467,
+        13532420468,
+        12314104284
+      ],
+      "tags": {
+        "bridge:structure": "beam",
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Đường Vành đai 2",
+        "name:en": "Ring Road 2"
+      }
+    }
+  ]
+}

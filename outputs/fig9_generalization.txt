@@ -1,0 +1,11 @@
+n_agents=2, success_rate=0.980000, collision_rate=0.040000
+n_agents=3, success_rate=0.986667, collision_rate=0.056667
+n_agents=4, success_rate=0.992500, collision_rate=0.080000
+n_agents=5, success_rate=0.982000, collision_rate=0.118000
+n_agents=6, success_rate=0.985000, collision_rate=0.143333
+n_agents=7, success_rate=0.984286, collision_rate=0.155714
+n_agents=8, success_rate=0.981250, collision_rate=0.168750
+n_agents=9, success_rate=0.967778, collision_rate=0.230000
+n_agents=10, success_rate=0.972000, collision_rate=0.222000
+n_agents=11, success_rate=0.974545, collision_rate=0.276364
+n_agents=12, success_rate=0.965833, collision_rate=0.230833

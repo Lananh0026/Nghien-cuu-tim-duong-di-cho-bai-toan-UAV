@@ -1,0 +1,255 @@
+{
+  "map_width_meters": 1033.9,
+  "vehicle_capacity": 1.0,
+  "max_parcels": 3,
+  "depart": {
+    "xy_meters": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "lat": 20.9973974,
+    "lon": 105.8267585,
+    "name": "Bưu điện Khương Mai",
+    "osm_id": 9420432154
+  },
+  "customer_1": {
+    "xy_meters": {
+      "x": 194.2,
+      "y": 274.57
+    },
+    "lat": 20.9998667,
+    "lon": 105.8286292,
+    "demand": 0.21,
+    "name": "Tops Market",
+    "type": "supermarket",
+    "osm_id": 5606598224
+  },
+  "customer_2": {
+    "xy_meters": {
+      "x": 151.18,
+      "y": -165.29
+    },
+    "lat": 20.9959109,
+    "lon": 105.8282148,
+    "demand": 0.2,
+    "name": "wold mart 31/69a",
+    "type": "convenience",
+    "osm_id": 4739103928
+  },
+  "customer_3": {
+    "xy_meters": {
+      "x": 414.74,
+      "y": 221.02
+    },
+    "lat": 20.9993851,
+    "lon": 105.8307536,
+    "demand": 0.17,
+    "name": "Trống Đồng Palace Cảnh Hồ",
+    "type": "events_venue",
+    "osm_id": 977795575
+  },
+  "customer_4": {
+    "xy_meters": {
+      "x": 336.57,
+      "y": 304.11
+    },
+    "lat": 21.0001323,
+    "lon": 105.8300006,
+    "demand": 0.07,
+    "name": "Tủ đổi pin VinFast",
+    "type": "vending_machine",
+    "osm_id": 13661963311
+  },
+  "customer_5": {
+    "xy_meters": {
+      "x": 151.82,
+      "y": 178.45
+    },
+    "lat": 20.9990022,
+    "lon": 105.828221,
+    "demand": 0.26,
+    "name": "Điểm cung cấp dịch vụ Viettel",
+    "type": "other",
+    "osm_id": 12878208846
+  },
+  "customer_6": {
+    "xy_meters": {
+      "x": -159.98,
+      "y": 151.23
+    },
+    "lat": 20.9987574,
+    "lon": 105.8252174,
+    "demand": 0.11,
+    "name": "Trường Tiểu học Khương Mai",
+    "type": "school",
+    "osm_id": 947208596
+  },
+  "customer_7": {
+    "xy_meters": {
+      "x": -363.18,
+      "y": 20.0
+    },
+    "lat": 20.9975773,
+    "lon": 105.82326,
+    "demand": 0.47,
+    "name": "Đại Lý 169",
+    "type": "convenience",
+    "osm_id": 4739122725
+  },
+  "customer_8": {
+    "xy_meters": {
+      "x": 65.21,
+      "y": 284.7
+    },
+    "lat": 20.9999578,
+    "lon": 105.8273867,
+    "demand": 0.09,
+    "name": "The Mob Coffee",
+    "type": "cafe",
+    "osm_id": 9805222035
+  },
+  "customer_9": {
+    "xy_meters": {
+      "x": 356.34,
+      "y": -172.31
+    },
+    "lat": 20.9958478,
+    "lon": 105.8301911,
+    "demand": 0.18,
+    "name": "VIB",
+    "type": "bank",
+    "osm_id": 6616936896
+  },
+  "customer_10": {
+    "xy_meters": {
+      "x": -329.29,
+      "y": -158.6
+    },
+    "lat": 20.9959711,
+    "lon": 105.8235865,
+    "demand": 0.33,
+    "name": "WinMart+",
+    "type": "convenience",
+    "osm_id": 13680891732
+  },
+  "customer_11": {
+    "xy_meters": {
+      "x": -104.06,
+      "y": 313.47
+    },
+    "lat": 21.0002165,
+    "lon": 105.8257561,
+    "demand": 0.45,
+    "name": "Viện Y học Phòng không - Không quân",
+    "type": "hospital",
+    "osm_id": 903697302
+  },
+  "customer_12": {
+    "xy_meters": {
+      "x": 2.51,
+      "y": -123.38
+    },
+    "lat": 20.9962878,
+    "lon": 105.8267827,
+    "demand": 0.21,
+    "name": "WinMart+",
+    "type": "convenience",
+    "osm_id": 11198940937
+  },
+  "customer_13": {
+    "xy_meters": {
+      "x": -365.11,
+      "y": -270.04
+    },
+    "lat": 20.9949689,
+    "lon": 105.8232414,
+    "demand": 0.14,
+    "name": "Sân bóng Đầm Hồng 1",
+    "type": "other",
+    "osm_id": 755360063
+  },
+  "customer_14": {
+    "xy_meters": {
+      "x": -22.03,
+      "y": 34.41
+    },
+    "lat": 20.9977069,
+    "lon": 105.8265463,
+    "demand": 0.08,
+    "name": "pub game",
+    "type": "computer",
+    "osm_id": 4739304237
+  },
+  "customer_15": {
+    "xy_meters": {
+      "x": 167.5,
+      "y": 271.72
+    },
+    "lat": 20.999841,
+    "lon": 105.828372,
+    "demand": 0.35,
+    "name": "PNJ",
+    "type": "jewelry",
+    "osm_id": 5608881107
+  },
+  "customer_16": {
+    "xy_meters": {
+      "x": 163.35,
+      "y": 144.91
+    },
+    "lat": 20.9987006,
+    "lon": 105.828332,
+    "demand": 0.4,
+    "name": "Siêu thị Thành Công",
+    "type": "supermarket",
+    "osm_id": 5611266121
+  },
+  "customer_17": {
+    "xy_meters": {
+      "x": -120.48,
+      "y": 78.71
+    },
+    "lat": 20.9981053,
+    "lon": 105.8255979,
+    "demand": 0.49,
+    "name": "Công an phường Phương Liệt",
+    "type": "police",
+    "osm_id": 947208601
+  },
+  "customer_18": {
+    "xy_meters": {
+      "x": 96.98,
+      "y": 218.29
+    },
+    "lat": 20.9993605,
+    "lon": 105.8276927,
+    "demand": 0.43,
+    "name": "WinMart+",
+    "type": "convenience",
+    "osm_id": 11209346437
+  },
+  "customer_19": {
+    "xy_meters": {
+      "x": 168.25,
+      "y": 271.15
+    },
+    "lat": 20.9998359,
+    "lon": 105.8283792,
+    "demand": 0.44,
+    "name": "Trung tâm thương mại Artemis",
+    "type": "mall",
+    "osm_id": 840467994
+  },
+  "customer_20": {
+    "xy_meters": {
+      "x": 184.45,
+      "y": 255.71
+    },
+    "lat": 20.9996971,
+    "lon": 105.8285353,
+    "demand": 0.22,
+    "name": "Techcombank CDM",
+    "type": "atm",
+    "osm_id": 12867036197
+  }
+}
