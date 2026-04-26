@@ -30,4 +30,4 @@ Dựa trên kiến trúc được đề xuất trong nghiên cứu của Chun-Yu
 2. **Xử lý dữ liệu:** `python process_osm_data.py --input data.json --n_customers 20`
 3. **Huấn luyện:** `python train_sac.py --episodes 500`
 4. **Mô phỏng:** `python simulate_delivery.py --model checkpoints/sac_actor.pt --ga_result outputs/ga_result.json`
-5. **So sánh hiệu suất 3 thuật toán:** `python compare_algorithms.py
+5. **So sánh hiệu suất 3 thuật toán:** `python compare_algorithms.py`
